@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,OAGC,cAAe,CAChB,YAGC,YAAa","file":"main.ca1ffec6.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbutton {\n  cursor: pointer;\n}\n\n.viewHeight {\n  height: 100vh;\n}\n"]}
